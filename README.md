@@ -1,6 +1,6 @@
-# complexion-reduction-ui
-React Components that Implement Complexion Reduction Design.
-In Abbreviation： CRUI
+# Complexion Reduction UI
+React Components that Implement Complexion Reduction Design.  
+For Reduction： CRUI
 
 ## install && import
 
@@ -18,6 +18,6 @@ WIP
 
 ## Reference
 
-[万恶之源](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.6zmhrzkya)
+[source of eval 万恶之源](https://medium.com/swarm-nyc/complexion-reduction-a-new-trend-in-mobile-design-cef033a0b978#.6zmhrzkya)
 
 https://dribbble.com/tags/complexion_reduction
