@@ -1,14 +1,15 @@
 # complexion-reduction-ui
 React Components that Implement Complexion Reduction Design.
+In Abbreviation： CRUI
 
 ## install && import
 
 ```shell
-npm i -S complexion-reduction-ui
+npm i -S crui
 ```
 
 ```javascript
-import fs from 'complexion-reduction-ui';
+import { Reduction } from 'crui';
 ```
 
 ## Design Language
