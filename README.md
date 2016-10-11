@@ -7,7 +7,7 @@ React Components that Implement Complexion Reduction Design.
 npm i -S complexion-reduction-ui
 ```
 
-```shell
+```javascript
 import fs from 'complexion-reduction-ui';
 ```
 
