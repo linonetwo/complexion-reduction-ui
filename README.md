@@ -1,16 +1,16 @@
 # Complexion Reduction UI
 React Components that Implement Complexion Reduction Design.  
   
-For Reduction： CRUI
+For Reduction： CRUI Or Reduction-UI
 
 ## install && import
 
 ```shell
-npm i -S crui
+npm i -S reduction-ui
 ```
 
 ```javascript
-import { Reduction } from 'crui';
+import { Reduction } from 'reduction-ui';
 ```
 
 ## Design Language
@@ -26,3 +26,5 @@ WIP
 https://dribbble.com/tags/complexion_reduction
 
 https://isux.tencent.com/ios-10-design-trends.html
+
+https://dribbble.com/shots/3026988-Pull-To-Refresh-Airbnb?utm_source=gold_browser_extension
