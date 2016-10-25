@@ -1,6 +1,8 @@
 # Complexion Reduction UI
 React Components that Implement Complexion Reduction Design.  
   
+A mapping from metaphor to interation, which is dynamic, and semantic.
+  
 For Reduction： CRUI Or Reduction-UI
 
 ## install && import
