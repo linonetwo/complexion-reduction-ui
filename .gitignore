@@ -40,5 +40,3 @@ dockerfile.tar.gz
 .vscode/
 
 npm-debug.log.*
-
-build/*

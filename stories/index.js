@@ -1,10 +1,21 @@
 import React from 'react';
 import { storiesOf, action } from '@kadira/storybook';
+import Button from '../src';
 
 storiesOf('Button', module)
-  .add('with text', () => (
-    <button onClick={action('clicked')}>Hello Button</button>
+  .add('default view', () => (
+    <Button onClick={action('button clicked')}>Hello</Button>
   ))
-  .add('with some emoji', () => (
-    <button onClick={action('clicked')}>😀 😎 👍 💯</button>
-  ));
+  .add('some emojies as the text', () => (
+    <Button>😀 😎 👍 💯</Button>
+  ))
+  .add('custom styles', () => {
+    const style = {
+      fontSize: 20,
+      textTransform: 'uppercase',
+      color: '#FF8833',
+    };
+    return (
+      <Button style={style}>Hello</Button>
+    );
+  });
