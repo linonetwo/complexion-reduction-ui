@@ -1,0 +1,15 @@
+{
+  "use": [
+    "postcss-smart-import",
+    "postcss-cssnext",
+    "precss",
+    "postcss-color-function"
+    ],
+  "input": "src/styles.css",
+  "output": "build/styles.css",
+  "autoprefixer": {
+    "browsers": "> 5%"
+  },
+  "map": true,
+  "local-plugins": true
+}

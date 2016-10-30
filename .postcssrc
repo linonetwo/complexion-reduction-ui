@@ -1,8 +1,0 @@
-{
-  "map": true,
-  "plugins": {
-    "postcss-smart-import": {},
-    "precss": {},
-    "autoprefixer": {}
-  }
-}
