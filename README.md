@@ -2,18 +2,18 @@
 
 React Components that Implement Complexion Reduction Design.  
   
-A mapping from metaphor to interation, which is dynamic, and semantic. Noted that this is a collection of experinmental components, using in production is dangerious.
+A mapping from metaphor to interation, which is dynamic, and semantic. This will be a collection of experinmental components.
   
 For Reduction： CRUI Or Reduction-UI
 
 ## install && import
 
 ```shell
-npm i -S reduction-ui // fake... WIP
+npm i -S reduction-ui # fake... WIP
 ```
 
 ```javascript
-import { Reduction } from 'reduction-ui';
+import { Reduction } from 'reduction-ui'; // fake... WIP
 ```
 
 ## Design Language
